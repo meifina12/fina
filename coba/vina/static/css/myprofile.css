@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: verdana;
+}
+
+*{margin: 0;padding: 0}
+.box{
+    width: 500px;
+    height: 312px;
+    position: relative;
+}
+.box img{
+    width: 100%;
+}
+img,p{
+    position: absolute;
+}
+
+.nama{
+    font-style: normal;
+    font-size: 1.7em;
+    top: 10px;
+    left: 550px;
+}
+.npm{
+    font-style: normal;
+    font-size: 1.7em;
+    top: 50px;
+    left: 550px;
+}
+
+.jenis{
+    font-style: normal;
+    font-size: 1.7em;
+    top: 90px;
+    left: 550px;
+}
+
+.tetala{
+    font-style: normal;
+    font-size: 1.7em;
+    top: 130px;
+    left: 550px;
+}
+
+.warga{
+    font-style: normal;
+    font-size: 1.7em;
+    top: 170px;
+    left: 550px;
+}
+.agama{
+    font-style: normal;
+    font-size: 1.7em;
+    top: 210px;
+    left: 550px;
+}
+.alamat{
+    font-style: normal;
+    font-size: 1.7em;
+    top: 250px;
+    left: 550px;
+}
+
+.kembali{
+    font-style: normal;
+    font-size: 1.7em;
+    top: 290px;
+    left: 550px;
+}
